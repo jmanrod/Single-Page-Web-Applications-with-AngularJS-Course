@@ -48,10 +48,10 @@ function initItems() {
     var items = [
         { name: "oreo", quantity: 10 },
         { name: "kitkat", quantity: 5 },
-        { name: "nutela", quantity: 10 },
+        { name: "nutella", quantity: 10 },
         { name: "kinder", quantity: 10 },
         { name: "donuts", quantity: 10 },
-        { name: "donetes", quantity: 10 },
+        { name: "donettes", quantity: 10 },
         { name: "toblerone", quantity: 10 }
     ];
     return items;
